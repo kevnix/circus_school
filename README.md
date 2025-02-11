@@ -8,6 +8,11 @@ Unity 2.5D Circus game project
 - [x] Add animations to dice and clouds
 - [x] Add sounds and music
 - [x] Create character selection screen
-- [ ] Create settings menue
 - [x] Create second scene
+- [ ] Create settings menue
+- [ ] Leaderboard (name, time, count)
+- [ ] Game logic with movement (waypoints, or path)
+- [ ] Movement with animations
+- [ ] Pause menu (time scale)
+- [ ] 
 ...
