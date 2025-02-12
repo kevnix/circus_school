@@ -14,5 +14,5 @@ Unity 2.5D Circus game project
 - [ ] Game logic with movement (waypoints, or path)
 - [ ] Movement with animations
 - [ ] Pause menu (time scale)
-- [ ] 
+- [ ] Add 5 characters (7 total)
 ...
